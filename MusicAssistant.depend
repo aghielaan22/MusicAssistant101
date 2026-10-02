@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1790878250 source:c:\users\user\downloads\musicassistant\main.cpp
+	"iostream"
+	"limits"
+
