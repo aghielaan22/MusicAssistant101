@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎵 MusicAssistant101
+# 🎵 MusicAssistant101 (beta)
 
 **A comprehensive, introductory guide and foundational repository for understanding, setting up, and exploring Music Assistant.**
 
